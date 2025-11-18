@@ -1,6 +1,6 @@
 Introduction
 -
-This game is a remake of Fox Ranger, Korea’s first commercial IBM-PC game from the 1990s. It was developed using DJGPP and Allegro, targeting 486 CPUs and above, allowing for beautiful graphics and sound during gameplay. The sound supports both MT-32 and Adlib devices. Currently, only Stage 1 is available.
+This game is a remake of Fox Ranger, Korea’s first commercial IBM-PC game from the 1990s. It was developed using DJGPP and Allegro, targeting 486 CPUs and above, allowing for beautiful graphics and sound during gameplay. The sound supports MT-32, SC-55 and Adlib devices. Currently, only Stage 1 is available.
 
 Requirement
 -
