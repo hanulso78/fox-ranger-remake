@@ -4,10 +4,10 @@ This game is a remake of Fox Ranger, Korea’s first commercial IBM-PC game from
 
 Requirement
 -
-* djgpp-mingw-gcc494-standalone.zip (https://github.com/andrewwutw/build-djgpp/releases)
 * Allegro 4.2.2 and some libraries
+* djgpp-mingw-gcc494-standalone.zip (https://github.com/andrewwutw/build-djgpp/releases)
 * DosBox (For development and testing purposes.)
-* You can use "DOS Development System(https://github.com/hanulso78/dos-dev-system)" instead of the above three. Place it under the work folder and build. 
+* You can use "DOS Development System(https://github.com/hanulso78/dos-dev-system)" instead of the above two. Place it under the work folder and build. 
 
 License
 -
